@@ -1,4 +1,4 @@
-# Rub-Impact
+# Rub-Impact testing and torsional vibration measurement:
 **I tested a rotor in cracked and healthy conditions.** 
 **Torsional vibration was measured and analyzed to diagnose rubbing or impacts between the rotor and a fixed object.** 
 **A schematic view of the test setup is shown in the following figure:**
